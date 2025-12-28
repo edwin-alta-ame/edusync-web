@@ -1,0 +1,2 @@
+# edusync-web
+Web EduSync
